@@ -3,13 +3,16 @@
 
 <h1 align="center">Hi 👋, I'm Md Mamun Hossain</h1>
 <img src=https://github.com/mkmakun9/codedeveloper/blob/e4e2246acfdec813b9f83d4629997f48b82876c4/m1.png />
+<a href="https://app.daily.dev/MAMUN9n"><img src="https://api.daily.dev/devcards/055bcb398fee44279e311194e4e7d180.png?r=yk6" width="400" alt="MD MAMUN's Dev Card"/> ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mkmakun9)  
+
+![Profile views](https://gpvc.arturio.dev/mkmakun9)</a>
+<h3 align="left">Connect with me:</h3>
 <h3 align="center">Afull-stack Web Application Developer and Software Developer frontend Backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkmakun9&label=Profile%20views&color=0e75b6&style=flat" alt="mkmakun9" /> </p>
 
 - 🔭 I’m currently working on [mrkportfolio](https://github.com/mkmakun9/mrkportfolio.github.com.io.git)
-<a href="https://app.daily.dev/MAMUN9n"><img src="https://api.daily.dev/devcards/055bcb398fee44279e311194e4e7d180.png?r=yk6" width="400" alt="MD MAMUN's Dev Card"/></a>
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://codepen.io/@mkmakun9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@mkmakun9" height="30" width="40" /></a>
 <a href="https://twitter.com/mkmamun9nislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mkmamun9nislam" height="30" width="40" /></a>
