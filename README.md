@@ -25,7 +25,10 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkmakun9&show_icons=true&locale=en&layout=compact" alt="mkmakun9" /></p>
+## 🖥⌨ Most used Languages 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoXX&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkmakun9&" alt="mkmakun9" /></p>
 <a hrep="https://metrics.lecoq.io/mkmakun9" /></a> 
@@ -42,7 +45,4 @@
 1. 🎉 Merged PR [#38](https://github.com/dailydotdev/docs/pull/38) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
 2. 🎉 Merged PR [#39](https://github.com/dailydotdev/docs/pull/39) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
 <!--END_SECTION:activity-->
-## 🖥⌨ Most used Languages 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoXX&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
