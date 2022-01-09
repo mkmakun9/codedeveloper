@@ -2,13 +2,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Md Mamun Hossain</h1>
-<img src=https://github.com/mkmakun9/codedeveloper/blob/e4e2246acfdec813b9f83d4629997f48b82876c4/m1.png />
-<a href="https://app.daily.dev/MAMUN9n"><img src="https://api.daily.dev/devcards/055bcb398fee44279e311194e4e7d180.png?r=yk6" width="400" alt="MD MAMUN's Dev Card"/> ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mkmakun9)  
-
-![Profile views](https://gpvc.arturio.dev/mkmakun9)</a>
-<h3 align="left">Connect with me:</h3>
+<a href="https://app.daily.dev/MAMUN9n"><img src="https://api.daily.dev/devcards/055bcb398fee44279e311194e4e7d180.png?r=15n" width="400" alt="MD MAMUN's Dev Card"/></a>
 <h3 align="center">Afull-stack Web Application Developer and Software Developer frontend Backend developer</h3>
-
+<img src=https://github.com/mkmakun9/codedeveloper/blob/e4e2246acfdec813b9f83d4629997f48b82876c4/m1.png />
+ 
+<h3 align="left">Connect with me:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkmakun9&label=Profile%20views&color=0e75b6&style=flat" alt="mkmakun9" /> </p>
 
 - 🔭 I’m currently working on [mrkportfolio](https://github.com/mkmakun9/mrkportfolio.github.com.io.git)
@@ -31,3 +29,20 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkmakun9&" alt="mkmakun9" /></p>
 <a hrep="https://metrics.lecoq.io/mkmakun9" /></a> 
+## <a href="https://blog.francescociulla.com/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent articles on Hashnode
+
+ <!-- BLOG-POST-LIST:START -->
+- [Working in public](https://blog.francescociulla.com/working-in-public)
+- [4C - The Cool Community of Content Creators](https://blog.francescociulla.com/4c-the-cool-community-of-content-creators)
+- [Dockerize a Django Application](https://blog.francescociulla.com/docker-django-1)
+- [How to build a personal brand effectively](https://blog.francescociulla.com/how-to-build-a-personal-brand-effectively)
+- [How to install Portainer with Docker](https://blog.francescociulla.com/how-to-install-portainer-with-docker)
+<!-- BLOG-POST-LIST:END -->
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#38](https://github.com/dailydotdev/docs/pull/38) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+2. 🎉 Merged PR [#39](https://github.com/dailydotdev/docs/pull/39) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+<!--END_SECTION:activity-->
+## 🖥⌨ Most used Languages 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoXX&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
