@@ -5,6 +5,7 @@
 <a href="https://app.daily.dev/MAMUN9n"><img src="https://api.daily.dev/devcards/055bcb398fee44279e311194e4e7d180.png?r=15n" width="400" alt="MD MAMUN's Dev Card"/></a>
 <h3 align="center">Afull-stack Web Application Developer and Software Developer frontend Backend developer</h3>
 <img src=https://github.com/mkmakun9/codedeveloper/blob/e4e2246acfdec813b9f83d4629997f48b82876c4/m1.png />
+<img src=https://github.com/mkmakun9/codedeveloper/blob/99373758a7525364d47be1c4f9aac4e576ad1eac/cv.jpg />
  
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkmakun9&label=Profile%20views&color=0e75b6&style=flat" alt="mkmakun9" /> </p>
